@@ -10,7 +10,7 @@
   "author": "agony",
   "license": "ISC",
   "dependencies": {
-    "qs": "^6.7.0"
+    "qs": "^6.7.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
